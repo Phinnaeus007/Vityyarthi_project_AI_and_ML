@@ -1,7 +1,11 @@
 # Student Score Predictor (AI/ML Project)
 
 ## Overview
-This project uses Linear Regression to predict a student's final exam score based on factors such as study hours, sleep hours, attendance, and previous performance. The model is trained using a real-world dataset and demonstrates a complete machine learning pipeline from data processing to prediction.
+This project is developed as part of the Bring Your Own Project (BYOP) requirement, where the objective is to identify a real-world problem and solve it using concepts learned in the course. The problem addressed in this project is the lack of a simple, data-driven way to understand how different factors such as study habits, sleep patterns, attendance, and past academic performance influence a student’s final exam score.
+
+To solve this, a machine learning model using Linear Regression has been built to analyze these factors and predict the final score. The project uses a real dataset and applies feature engineering to transform raw data into meaningful inputs for the model. The system then learns patterns from the data and allows users to input their own values to receive a predicted score.
+
+This solution demonstrates how basic machine learning techniques can be applied to a practical academic scenario, providing insights into student performance and showing how data can be used to support better decision-making.
 
 ---
 
